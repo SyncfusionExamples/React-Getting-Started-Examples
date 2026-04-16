@@ -1,4 +1,4 @@
-# React-Getting-Started-Examples
+# Getting Started with React – EJ2 Sample
 
 This repository provides a collection of small, focused example projects that demonstrate how to integrate Syncfusion React UI components into minimal React applications. Each example is intentionally lightweight and designed to highlight specific integration patterns without unnecessary complexity, making it easier for developers to understand and reuse the configurations.
 
