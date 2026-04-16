@@ -1,16 +1,14 @@
 # React-Getting-Started-Examples
 
-Repository Description: A collection of getting-started examples demonstrating how to use Syncfusion React components with webpack and basic project setups.
+This repository provides a collection of small, focused example projects that demonstrate how to integrate Syncfusion React UI components into minimal React applications. Each example is intentionally lightweight and designed to highlight specific integration patterns without unnecessary complexity, making it easier for developers to understand and reuse the configurations.
 
-## Project Overview
+# Features
 
-This repository provides small, focused example projects that show how to integrate Syncfusion React UI components into minimal React applications. Examples include simple build and run configurations using webpack or other lightweight dev servers, sample source files, and minimal HTML wrappers to load the compiled bundles.
+- Minimal React example projects focused on Syncfusion React UI component integration  
+- Lightweight build configurations using Webpack or similar development tools  
+- Sample source files demonstrating component setup, rendering, and usage  
+- Simple HTML entry points for loading compiled React bundles  
 
-## What you'll find
-
-- Multiple example folders with small React projects using Syncfusion components
-- Minimal webpack configurations and `index.html` files for static hosting
-- Sample source files demonstrating component usage and data wiring
 
 ## Prerequisites
 
@@ -27,13 +25,4 @@ cd QuickStart/my-app
 npm install
 npm start
 ```
-
-Open the URL shown in the console (or `http://localhost:3000/` by default for Create React App) to view the example. Check `QuickStart/my-app/README.md` for any example-specific notes.
-
-## Contributing
-
-Add or improve examples by creating a focused folder with source files and a README that documents setup and run steps.
-
-## License
-
-See the repository LICENSE file for terms.
+Once the development server starts, the sample application will automatically open in your default browser. 
